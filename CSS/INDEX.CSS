@@ -89,5 +89,10 @@ p{color:white;}
   margin-right: 30px;
 }
 
-@media only screen and (max-width: 600px);
-  }
+@media only screen and (max-width: 600px){
+  display:grid;
+}
+
+.Footer{
+  justify-content: space-evenly;
+}
